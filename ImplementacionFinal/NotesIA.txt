@@ -1,0 +1,9 @@
+acuacity y ciuadratico medio 	 evaluar el error
+categorico -> numerico
+
+convierte las variables de tipo categórico a numéricos.
+Se usa en el ejemplo de iris 
+Factorize -> orden.
+one jouden coding -> sin orden.
+
+clasificacion presition
